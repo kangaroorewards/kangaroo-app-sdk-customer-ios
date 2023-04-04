@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'KangarooAppSdkCustomer'
-    spec.version                  = '1.0'
+    spec.version                  = '1.0.0'
     spec.homepage                 = 'https://kangaroorewards.com/'
     spec.source                   = { :http => 'https://github.com/kangaroorewards/kangaroo-app-sdk-customer-ios/releases/download/1.0.0/KangarooAppSdkCustomer.xcframework.zip' }
     spec.authors                  = ''
