@@ -5,7 +5,7 @@
     <key>CFBundleExecutable</key>
     <string>KangarooAppSdkCustomer</string>
     <key>CFBundleIdentifier</key>
-    <string>features.KangarooAppSdkCustomer</string>
+    <string>KangarooAppSdkCustomer</string>
     <key>CFBundleInfoDictionaryVersion</key>
     <string>6.0</string>
     <key>CFBundleName</key>
