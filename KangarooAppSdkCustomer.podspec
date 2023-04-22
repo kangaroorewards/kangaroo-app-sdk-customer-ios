@@ -8,5 +8,4 @@ Pod::Spec.new do |spec|
     spec.license                  = { :type => 'BSD 3-Clause' }
     spec.vendored_frameworks      = 'KangarooAppSdkCustomer.xcframework'
     spec.ios.deployment_target = '11.0'
-    spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 end
