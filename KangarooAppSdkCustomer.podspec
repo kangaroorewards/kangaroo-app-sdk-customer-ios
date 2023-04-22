@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
     spec.homepage                 = 'https://kangaroorewards.com/'
     spec.source                   = { :http => 'https://github.com/kangaroorewards/kangaroo-app-sdk-customer-ios/releases/download/1.0.024/KangarooAppSdkCustomer-v1.0.024.zip' }
     spec.author                      = { 'KangarooAppSdkCustomer' => 'paul@kangaroorewards.com' }
-    spec.license                  = { :type => 'BSD 3-Clause' }
+    spec.license                  = { :type => 'KANGAROO', :file => "LICENSE"  }
     spec.vendored_frameworks      = 'KangarooAppSdkCustomer.xcframework'
     spec.ios.deployment_target = '11.0'
 end
